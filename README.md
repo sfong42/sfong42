@@ -8,7 +8,7 @@ Looking ahead to graduation in 2027, I aim to become a graphics programmer, cont
 
 | Projects      | Description |
 | ------------- | ------------- |
-| [wordladder]((https://github.com/sfong42/wordladder))  | A word-ladder builder and solver that challenges players to transform one word to another. It can also compute the shortest possible ladder using BFS. |                          
+| [wordladder](https://github.com/sfong42/wordladder) | A word-ladder builder and solver that challenges players to transform one word to another. It can also compute the shortest possible ladder using BFS. |                          
 | Content Cell  | Content Cell  |
 
 <!--
