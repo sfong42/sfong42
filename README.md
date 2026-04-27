@@ -6,6 +6,11 @@ At UIC, I'm learning new programming languages and building small projects while
 
 Looking ahead to graduation in 2027, I aim to become a graphics programmer, contributing to tools and systems that will help artists bring their creative visions to life. I'm excited for opportunities where I can combine programming and visual storytelling to make the process easier and powerful for end-users.
 
+| Projects      | Description |
+| ------------- | ------------- |
+| word-ladder   | A word-ladder builder and solver that challenges players to transform one word to another. It can also compute the shortest possible ladder using BFS. |              |             |
+| Content Cell  | Content Cell  |
+
 <!--
 **sfong42/sfong42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
