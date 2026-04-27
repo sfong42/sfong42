@@ -9,7 +9,7 @@ Looking ahead to graduation in 2027, I aim to become a graphics programmer, cont
 | Projects      | Description |
 | ------------- | ------------- |
 | [wordladder](https://github.com/sfong42/wordladder) | A word-ladder builder and solver that challenges players to transform one word to another. It can also compute the shortest possible ladder using BFS. |                          
-| [Spelling Bee Game](https://github.com/sfong42/spellingbee-game/tree/main)  | A word-building gmae where you create as many valid words as possible using letters from a hive |
+| [Spelling Bee Game](https://github.com/sfong42/spellingbee-game/tree/main)  | A word-building game where you create as many valid words as possible using letters from a hive |
 
 <!--
 **sfong42/sfong42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
